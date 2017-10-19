@@ -1,5 +1,5 @@
 nb_letters: 20
 nb_possible_chars: 27
 possible_letters: ' abcdefghijklmnopqrstuvwxyz'
-WEIGHTS_URL = 'https://raw.githubusercontent.com/eemkos/ModelWeights/master/weights.hdf5'
-MODEL_URL = 'https://raw.githubusercontent.com/eemkos/ModelWeights/master/model.json'
+WEIGHTS_URL: 'https://raw.githubusercontent.com/eemkos/ModelWeights/master/weights.hdf5'
+MODEL_URL: 'https://raw.githubusercontent.com/eemkos/ModelWeights/master/model.json'
