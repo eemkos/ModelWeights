@@ -1,4 +1,4 @@
-nb_letters: 20
+2nb_letters: 20
 nb_possible_chars: 27
 possible_letters: ' abcdefghijklmnopqrstuvwxyz'
 WEIGHTS_URL: 'https://raw.githubusercontent.com/eemkos/ModelWeights/master/weights.hdf5'
@@ -12,6 +12,6 @@ WEIGHTS_URLS: ['https://raw.githubusercontent.com/eemkos/ModelWeights/master/wei
                 'https://raw.githubusercontent.com/eemkos/ModelWeights/master/weights.hdf5',
                 'https://raw.githubusercontent.com/eemkos/ModelWeights/master/weights.hdf5']
                 
-MODELS_INFOS: [{nb_letters: 10, nb_possible_chars: 27},
+MODELS_INFOS: [{nb_letters: 20, nb_possible_chars: 27},
                 {nb_letters: 20, nb_possible_chars: 27},
-                {nb_letters: 30, nb_possible_chars: 27}]
+                {nb_letters: 20, nb_possible_chars: 27}]
